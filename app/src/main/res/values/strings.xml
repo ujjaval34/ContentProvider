@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FetchContactList</string>
+
+
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_mobile">Enter mobile number</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter contact name</string>
+    <string name="save">Save</string>
+    <string name="wait">Please Wait...</string>
+</resources>
